@@ -18,7 +18,7 @@ public class ModuleA {
         // TODO code application logic here
         System.out.println("Hello World!");
         System.out.println("Bye!");
-        System.out.print("bye");
+        System.out.print("bye...");
     }
     
 }
