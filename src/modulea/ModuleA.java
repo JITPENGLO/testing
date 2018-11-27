@@ -19,6 +19,9 @@ public class ModuleA {
         System.out.println("Hello World!");
         System.out.println("Bye!");
         System.out.print("bye...");
+        System.out.println("bye");
+        System.out.println("damn");
+        //System.out.println("damn");
     }
     
 }
